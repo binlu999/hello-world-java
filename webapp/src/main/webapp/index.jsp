@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter you Name</b> hello from container of docker new jenkins</label>
+    <label for="Name"><b>Enter your Name</b> hello from container of docker new jenkins</label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
